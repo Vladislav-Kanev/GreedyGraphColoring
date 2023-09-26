@@ -1,0 +1,5 @@
+.vscode
+build
+*.pdf
+app
+*.out
